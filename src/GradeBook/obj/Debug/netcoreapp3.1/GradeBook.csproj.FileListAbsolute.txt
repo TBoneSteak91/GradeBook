@@ -1,0 +1,13 @@
+C:\Users\Tony Lydon\projs\gradebook\src\gradebook\bin\Debug\netcoreapp3.1\gradebook.exe
+C:\Users\Tony Lydon\projs\gradebook\src\gradebook\bin\Debug\netcoreapp3.1\gradebook.deps.json
+C:\Users\Tony Lydon\projs\gradebook\src\gradebook\bin\Debug\netcoreapp3.1\gradebook.runtimeconfig.json
+C:\Users\Tony Lydon\projs\gradebook\src\gradebook\bin\Debug\netcoreapp3.1\gradebook.runtimeconfig.dev.json
+C:\Users\Tony Lydon\projs\gradebook\src\gradebook\bin\Debug\netcoreapp3.1\gradebook.dll
+C:\Users\Tony Lydon\projs\gradebook\src\gradebook\bin\Debug\netcoreapp3.1\gradebook.pdb
+C:\Users\Tony Lydon\projs\gradebook\src\gradebook\obj\Debug\netcoreapp3.1\gradebook.csproj.CoreCompileInputs.cache
+C:\Users\Tony Lydon\projs\gradebook\src\gradebook\obj\Debug\netcoreapp3.1\gradebook.AssemblyInfoInputs.cache
+C:\Users\Tony Lydon\projs\gradebook\src\gradebook\obj\Debug\netcoreapp3.1\gradebook.AssemblyInfo.cs
+C:\Users\Tony Lydon\projs\gradebook\src\gradebook\obj\Debug\netcoreapp3.1\gradebook.dll
+C:\Users\Tony Lydon\projs\gradebook\src\gradebook\obj\Debug\netcoreapp3.1\gradebook.pdb
+C:\Users\Tony Lydon\projs\gradebook\src\gradebook\obj\Debug\netcoreapp3.1\gradebook.genruntimeconfig.cache
+C:\Users\Tony Lydon\projs\gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csprojAssemblyReference.cache
